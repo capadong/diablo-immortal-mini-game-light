@@ -3,3 +3,6 @@
 当点燃某个火把时，紧邻它的火把也会被点燃或熄灭，如果紧邻的火把是点燃的状态则熄灭。
 当全部火把被点燃时任务完成[去试试](https://capadong.github.io/diablo-immortal-mini-game-light/)
 
+### 游戏中的截图
+
+![image](https://github.com/capadong/diablo-immortal-mini-game-light/blob/main/1.jpeg)
